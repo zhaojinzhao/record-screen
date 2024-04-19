@@ -1,0 +1,14 @@
+{
+  "name": "@insight/es-linter",
+  "version": "1.0.0",
+  "description": "This is a linter used eslint、typescript、vue.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "eslint",
+    "typescript",
+    "vue"
+  ],
+  "author": "",
+  "license": "MIT"
+}

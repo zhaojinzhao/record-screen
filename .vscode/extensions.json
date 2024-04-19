@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "streetsidesoftware.code-spell-checker",
+    "hediet.vscode-drawio",
+    "formulahendry.auto-rename-tag",
+    "eamodio.gitlens",
+    "Vue.volar"
+  ]
+}
